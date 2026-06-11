@@ -67,9 +67,20 @@ export default function DashboardPage(){
     supabase.auth.getUser().then(({data})=>{
       if(!data.user){window.location.href='/login';return;}
       setUser(data.user);
+      // ลอง Supabase ก่อน
       supabase!.from('lotto_results').select('*').order('draw_date',{ascending:false}).then(({data,error})=>{
-        if(error){setErr(error.message);setLoading(false);return;}
-        if(!data?.length){setAnalysis({total_draws:0,date_range:{from:'',to:''},hot_numbers:[],cold_numbers:[],due_numbers:[],predictions:[]});setLoading(false);return;}
+        if(error || !data?.length){
+          // Fallback: โหลดจาก local JSON
+          console.warn('[Dashboard] Supabase failed, loading local data');
+          fetch('/lotto-data.json').then(r=>r.json()).then(localData=>{
+            if(localData && localData.length>0){
+              setResults(localData);setAnalysis(analyze(localData));setLoading(false);
+            }else{
+              setErr('ไม่สามารถโหลดข้อมูลได้');setLoading(false);
+            }
+          }).catch(()=>{setErr('ไม่สามารถโหลดข้อมูลได้');setLoading(false);});
+          return;
+        }
         setResults(data);setAnalysis(analyze(data));setLoading(false);
       });
     });

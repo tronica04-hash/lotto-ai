@@ -1,0 +1,16 @@
+{
+  "phase": 2,
+  "draws": 666,
+  "walk_forward": {
+    "freq": {
+      "hit_rate": 8.91304347826087
+    },
+    "pos": {
+      "hit_rate": 9.130434782608695
+    },
+    "combo": {
+      "hit_rate": 8.695652173913043
+    }
+  },
+  "neural_net": 18.0
+}

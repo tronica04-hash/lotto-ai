@@ -1,0 +1,20 @@
+{
+  "phase": 3,
+  "draws": 666,
+  "features": 56,
+  "random_forest": {
+    "hit_rate": 8.88888888888889,
+    "vs_random": -1.1111111111111107
+  },
+  "gradient_boosting": {
+    "hit_rate": 8.0,
+    "vs_random": -2.0
+  },
+  "all_phases": {
+    "phase1_digit_position": 52.2,
+    "phase1_monte_carlo": 14.2,
+    "phase2_neural_net": 18.0,
+    "phase3_random_forest": 8.88888888888889,
+    "phase3_gradient_boosting": 8.0
+  }
+}
