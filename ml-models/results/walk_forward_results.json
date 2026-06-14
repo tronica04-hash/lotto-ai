@@ -1,0 +1,137 @@
+{
+  "test_date": "2026-06-11T20:02:38.947810",
+  "total_rounds": 676,
+  "formulas_tested": 11,
+  "results": {
+    "1. Frequency Analysis": {
+      "total_score": 1139,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.1227810650887574,
+      "prize_counts": {
+        "เลขท้าย 2": 58,
+        "เลขท้าย 3": 22,
+        "รางวัลที่ 4": 1,
+        "เลขหน้า 3": 2
+      }
+    },
+    "2. Due Number": {
+      "total_score": 1265,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.13757396449704143,
+      "prize_counts": {
+        "เลขท้าย 2": 65,
+        "เลขท้าย 3": 24,
+        "เลขหน้า 3": 4
+      }
+    },
+    "3. Recency Weighted": {
+      "total_score": 1320,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.14201183431952663,
+      "prize_counts": {
+        "เลขท้าย 2": 70,
+        "เลขท้าย 3": 20,
+        "รางวัลที่ 4": 2,
+        "เลขหน้า 3": 4
+      }
+    },
+    "4. Digit Position": {
+      "total_score": 1327,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.14497041420118342,
+      "prize_counts": {
+        "เลขท้าย 3": 19,
+        "เลขท้าย 2": 74,
+        "เลขหน้า 3": 4,
+        "รางวัลที่ 5": 1
+      }
+    },
+    "5. Monte Carlo": {
+      "total_score": 1333,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.14201183431952663,
+      "prize_counts": {
+        "เลขท้าย 2": 56,
+        "เลขท้าย 3": 31,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 8
+      }
+    },
+    "6. Markov Chain": {
+      "total_score": 0,
+      "total_rounds": 0,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0,
+      "prize_counts": {}
+    },
+    "7. Bayesian Inference": {
+      "total_score": 1450,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.15532544378698224,
+      "prize_counts": {
+        "เลขท้าย 2": 65,
+        "เลขท้าย 3": 29,
+        "เลขหน้า 3": 10,
+        "รางวัลที่ 5": 1
+      }
+    },
+    "8. Hot/Cold Analysis": {
+      "total_score": 1218,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.13313609467455623,
+      "prize_counts": {
+        "เลขท้าย 2": 66,
+        "เลขท้าย 3": 22,
+        "เลขหน้า 3": 2
+      }
+    },
+    "9. Sum Analysis": {
+      "total_score": 1299,
+      "total_rounds": 676,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0.14053254437869822,
+      "prize_counts": {
+        "เลขท้าย 3": 24,
+        "เลขท้าย 2": 63,
+        "เลขหน้า 3": 8
+      }
+    },
+    "10. Pair Analysis": {
+      "total_score": 2250,
+      "total_rounds": 676,
+      "perfect_rounds": 17,
+      "avg_sets_won": 0.2514792899408284,
+      "prize_counts": {
+        "เลขท้าย 2": 150,
+        "เลขท้าย 3": 20
+      }
+    },
+    "11. Ensemble": {
+      "total_score": 0,
+      "total_rounds": 0,
+      "perfect_rounds": 0,
+      "avg_sets_won": 0,
+      "prize_counts": {}
+    }
+  },
+  "best_formula": "10. Pair Analysis",
+  "recommended_numbers": [
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693",
+    "145693"
+  ]
+}

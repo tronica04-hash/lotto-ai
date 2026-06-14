@@ -1,0 +1,72 @@
+{
+  "generated": "2026-06-13T11:41:39.761344",
+  "total_iterations": 540,
+  "best_score_ever": 113,
+  "final_formula_count": 18,
+  "top_10": [
+    {
+      "id": "gen_g28_9239",
+      "name": "gen_g28_9239",
+      "avg_score": 55.333333333333336
+    },
+    {
+      "id": "gen_g18_7179",
+      "name": "gen_g18_7179",
+      "avg_score": 52.0
+    },
+    {
+      "id": "gen_g27_7970",
+      "name": "gen_g27_7970",
+      "avg_score": 51.5
+    },
+    {
+      "id": "gen_g10_4599",
+      "name": "gen_g10_4599",
+      "avg_score": 51.5
+    },
+    {
+      "id": "gen_g4_8586",
+      "name": "gen_g4_8586",
+      "avg_score": 48.0
+    },
+    {
+      "id": "gen_g23_1632",
+      "name": "gen_g23_1632",
+      "avg_score": 47.0
+    },
+    {
+      "id": "gen_g14_6391",
+      "name": "gen_g14_6391",
+      "avg_score": 46.5
+    },
+    {
+      "id": "gen_g17_4635",
+      "name": "gen_g17_4635",
+      "avg_score": 46.5
+    },
+    {
+      "id": "gen_g22_1476",
+      "name": "gen_g22_1476",
+      "avg_score": 46.5
+    },
+    {
+      "id": "gen_g2_5991",
+      "name": "gen_g2_5991",
+      "avg_score": 46.5
+    }
+  ],
+  "the_chosen_10_sets": [
+    "911292",
+    "074568",
+    "164191",
+    "991102",
+    "311240",
+    "832176",
+    "893199",
+    "212248",
+    "956581",
+    "830870"
+  ],
+  "best_formula_id": "gen_g28_9239",
+  "best_formula_name": "N/A"
+}

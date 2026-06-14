@@ -1,0 +1,73 @@
+============================================================
+DATA QUALITY ANALYSIS REPORT
+============================================================
+
+1. TOTAL DRAWS: 776
+   Expected: 776+ draws (1990-2026)
+
+2. DATE RANGE:
+   First: 1990-01-16
+   Last:  2026-06-01
+
+3. DUPLICATE DATES: 0
+
+4. GAP DETECTION:
+   Large gaps (>33 days): 14
+   GAP: 1995-04-16 -> 1995-06-01 (46 days)
+   GAP: 1996-04-16 -> 1996-06-01 (46 days)
+   GAP: 2015-12-01 -> 2016-02-01 (62 days)
+   GAP: 2016-12-16 -> 2017-02-01 (47 days)
+   GAP: 2017-12-16 -> 2018-02-01 (47 days)
+   GAP: 2018-12-16 -> 2019-02-01 (47 days)
+   GAP: 2019-12-16 -> 2020-02-01 (47 days)
+   GAP: 2020-04-01 -> 2020-06-01 (61 days)
+   GAP: 2020-12-16 -> 2021-02-01 (47 days)
+   GAP: 2021-12-16 -> 2022-02-01 (47 days)
+   GAP: 2022-12-16 -> 2023-02-01 (47 days)
+   GAP: 2023-12-16 -> 2024-02-01 (47 days)
+   GAP: 2024-12-16 -> 2025-02-01 (47 days)
+   GAP: 2025-12-16 -> 2026-02-01 (47 days)
+
+5. FIELD VALIDATION:
+
+6. FIELD COMPLETENESS:
+   first_prize: 776/776 (100.0%)
+   two_digit: 776/776 (100.0%)
+   three_digit_last: 776/776 (100.0%)
+   three_digit_first: 219/776 (28.2%)
+   nearby_1st: 553/776 (71.3%)
+   second_prize: 553/776 (71.3%)
+   third_prize: 552/776 (71.1%)
+   prize_4: 552/776 (71.1%)
+   prize_5: 552/776 (71.1%)
+
+7. FORMAT ISSUES:
+   first_prize: 0 issues
+   two_digit: 0 issues
+   three_digit_last: 0 issues
+   three_digit_first: 0 issues
+   nearby_1st: 0 issues
+   second_prize: 0 issues
+   third_prize: 0 issues
+   prize_4: 0 issues
+   prize_5: 0 issues
+
+8. COMPLETENESS SCORING:
+   Average completeness: 82.7%
+   Min completeness: 55.0%
+   Max completeness: 100.0%
+   Draws with <50% completeness: 0
+
+9. ARRAY SIZE VALIDATION:
+   nearby_1st (max 2): 0 draws exceed limit
+   second_prize (max 5): 0 draws exceed limit
+   third_prize (max 10): 0 draws exceed limit
+   prize_4 (max 50): 0 draws exceed limit
+   prize_5 (max 100): 0 draws exceed limit
+
+10. OUTLIER DETECTION:
+   Total outliers detected: 0
+
+============================================================
+REPORT SAVED TO: D:\lotto-ai\ml-models\data\data_quality_report.json
+============================================================

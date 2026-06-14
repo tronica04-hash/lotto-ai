@@ -1,0 +1,108 @@
+{
+  "report_date": "2026-06-12",
+  "total_draws": 776,
+  "expected_draws": "776+ (1990-2026)",
+  "date_range": {
+    "first": "1990-01-16",
+    "last": "2026-06-01"
+  },
+  "completeness_avg": 82.7,
+  "completeness_min": 55.0,
+  "completeness_max": 100.0,
+  "duplicates_found": 0,
+  "duplicate_dates": [],
+  "gaps_found": 14,
+  "gaps": [
+    {
+      "from": "1995-04-16",
+      "to": "1995-06-01",
+      "days": 46
+    },
+    {
+      "from": "1996-04-16",
+      "to": "1996-06-01",
+      "days": 46
+    },
+    {
+      "from": "2015-12-01",
+      "to": "2016-02-01",
+      "days": 62
+    },
+    {
+      "from": "2016-12-16",
+      "to": "2017-02-01",
+      "days": 47
+    },
+    {
+      "from": "2017-12-16",
+      "to": "2018-02-01",
+      "days": 47
+    },
+    {
+      "from": "2018-12-16",
+      "to": "2019-02-01",
+      "days": 47
+    },
+    {
+      "from": "2019-12-16",
+      "to": "2020-02-01",
+      "days": 47
+    },
+    {
+      "from": "2020-04-01",
+      "to": "2020-06-01",
+      "days": 61
+    },
+    {
+      "from": "2020-12-16",
+      "to": "2021-02-01",
+      "days": 47
+    },
+    {
+      "from": "2021-12-16",
+      "to": "2022-02-01",
+      "days": 47
+    },
+    {
+      "from": "2022-12-16",
+      "to": "2023-02-01",
+      "days": 47
+    },
+    {
+      "from": "2023-12-16",
+      "to": "2024-02-01",
+      "days": 47
+    },
+    {
+      "from": "2024-12-16",
+      "to": "2025-02-01",
+      "days": 47
+    },
+    {
+      "from": "2025-12-16",
+      "to": "2026-02-01",
+      "days": 47
+    }
+  ],
+  "field_completeness": {
+    "first_prize": 100.0,
+    "two_digit": 100.0,
+    "three_digit_last": 100.0,
+    "three_digit_first": 28.2,
+    "nearby_1st": 71.3,
+    "second_prize": 71.3,
+    "third_prize": 71.1,
+    "prize_4": 71.1,
+    "prize_5": 71.1
+  },
+  "low_completeness_draws": [],
+  "outliers": [],
+  "format_issues": {},
+  "array_size_violations": {
+    "nearby_1st": 0,
+    "second_prize": 0,
+    "third_prize": 0,
+    "prize_4": 0,
+    "prize_5": 0
+  }
+}

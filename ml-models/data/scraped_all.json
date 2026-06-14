@@ -1,5 +1,1875 @@
 [
   {
+    "draw_date": "1990-01-16",
+    "first_prize": "992239",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "234",
+      "284",
+      "288",
+      "898"
+    ],
+    "two_digit": "97",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-02-01",
+    "first_prize": "078496",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "104",
+      "259",
+      "481",
+      "756"
+    ],
+    "two_digit": "82",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-02-16",
+    "first_prize": "732892",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "386",
+      "596",
+      "601",
+      "889"
+    ],
+    "two_digit": "01",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-03-01",
+    "first_prize": "968902",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "087",
+      "452",
+      "567",
+      "624"
+    ],
+    "two_digit": "15",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-03-16",
+    "first_prize": "240205",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "275",
+      "443",
+      "559",
+      "775"
+    ],
+    "two_digit": "88",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-04-01",
+    "first_prize": "734251",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "195",
+      "301",
+      "637",
+      "717"
+    ],
+    "two_digit": "39",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-04-16",
+    "first_prize": "092890",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "059",
+      "489",
+      "664",
+      "912"
+    ],
+    "two_digit": "84",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-05-16",
+    "first_prize": "071272",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "465",
+      "565",
+      "815",
+      "942"
+    ],
+    "two_digit": "34",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-06-01",
+    "first_prize": "355474",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "115",
+      "118",
+      "227",
+      "492"
+    ],
+    "two_digit": "72",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-06-16",
+    "first_prize": "530344",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "144",
+      "198",
+      "371",
+      "878"
+    ],
+    "two_digit": "65",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-07-01",
+    "first_prize": "076835",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "038",
+      "043",
+      "295",
+      "641"
+    ],
+    "two_digit": "43",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-07-16",
+    "first_prize": "814178",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "112",
+      "342",
+      "619",
+      "770"
+    ],
+    "two_digit": "11",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-08-01",
+    "first_prize": "867185",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "070",
+      "445",
+      "579",
+      "973"
+    ],
+    "two_digit": "92",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-08-16",
+    "first_prize": "671935",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "325",
+      "361",
+      "644",
+      "746"
+    ],
+    "two_digit": "43",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-09-01",
+    "first_prize": "622380",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "161",
+      "639",
+      "862",
+      "938"
+    ],
+    "two_digit": "83",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-09-16",
+    "first_prize": "202390",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "085",
+      "211",
+      "461",
+      "747"
+    ],
+    "two_digit": "55",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-10-01",
+    "first_prize": "738808",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "043",
+      "058",
+      "748",
+      "977"
+    ],
+    "two_digit": "37",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-10-16",
+    "first_prize": "626303",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "351",
+      "431",
+      "923",
+      "928"
+    ],
+    "two_digit": "56",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-11-01",
+    "first_prize": "380230",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "516",
+      "619",
+      "694",
+      "829"
+    ],
+    "two_digit": "82",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-11-16",
+    "first_prize": "226536",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "020",
+      "050",
+      "426",
+      "721"
+    ],
+    "two_digit": "06",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-12-01",
+    "first_prize": "771944",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "237",
+      "444",
+      "586",
+      "692"
+    ],
+    "two_digit": "88",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1990-12-16",
+    "first_prize": "407799",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "171",
+      "238",
+      "359",
+      "708"
+    ],
+    "two_digit": "21",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-01-16",
+    "first_prize": "328736",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "225",
+      "388",
+      "645",
+      "649"
+    ],
+    "two_digit": "29",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-02-01",
+    "first_prize": "396496",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "079",
+      "087",
+      "455",
+      "458"
+    ],
+    "two_digit": "75",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-02-16",
+    "first_prize": "223780",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "242",
+      "596",
+      "658",
+      "992"
+    ],
+    "two_digit": "33",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-03-01",
+    "first_prize": "598076",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "676",
+      "783",
+      "928",
+      "950"
+    ],
+    "two_digit": "72",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-03-16",
+    "first_prize": "891641",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "527",
+      "540",
+      "715",
+      "866"
+    ],
+    "two_digit": "59",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-04-01",
+    "first_prize": "606864",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "008",
+      "103",
+      "416",
+      "819"
+    ],
+    "two_digit": "03",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-04-16",
+    "first_prize": "824037",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "206",
+      "565",
+      "711",
+      "970"
+    ],
+    "two_digit": "57",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-05-16",
+    "first_prize": "532303",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "269",
+      "688",
+      "802",
+      "931"
+    ],
+    "two_digit": "63",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-06-01",
+    "first_prize": "496376",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "303",
+      "318",
+      "485",
+      "804"
+    ],
+    "two_digit": "77",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-06-16",
+    "first_prize": "364632",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "268",
+      "370",
+      "761",
+      "785"
+    ],
+    "two_digit": "91",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-07-01",
+    "first_prize": "441724",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "134",
+      "196",
+      "766",
+      "771"
+    ],
+    "two_digit": "58",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-07-16",
+    "first_prize": "671946",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "822",
+      "846",
+      "882",
+      "951"
+    ],
+    "two_digit": "62",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-08-01",
+    "first_prize": "580541",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "459",
+      "509",
+      "753",
+      "947"
+    ],
+    "two_digit": "11",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-08-16",
+    "first_prize": "746551",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "044",
+      "182",
+      "377",
+      "845"
+    ],
+    "two_digit": "89",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-09-01",
+    "first_prize": "700430",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "081",
+      "119",
+      "237",
+      "661"
+    ],
+    "two_digit": "49",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-09-16",
+    "first_prize": "790449",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "114",
+      "220",
+      "298",
+      "381"
+    ],
+    "two_digit": "18",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-10-01",
+    "first_prize": "730444",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "318",
+      "928",
+      "977",
+      "978"
+    ],
+    "two_digit": "96",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-10-16",
+    "first_prize": "078202",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "314",
+      "338",
+      "566",
+      "585"
+    ],
+    "two_digit": "38",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-11-01",
+    "first_prize": "894285",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "183",
+      "272",
+      "516",
+      "537"
+    ],
+    "two_digit": "78",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-11-16",
+    "first_prize": "373528",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "477",
+      "643",
+      "937",
+      "979"
+    ],
+    "two_digit": "08",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-12-01",
+    "first_prize": "470741",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "006",
+      "540",
+      "602",
+      "794"
+    ],
+    "two_digit": "05",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1991-12-16",
+    "first_prize": "241436",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "597",
+      "613",
+      "667",
+      "717"
+    ],
+    "two_digit": "88",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-01-16",
+    "first_prize": "149428",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "034",
+      "132",
+      "543",
+      "672"
+    ],
+    "two_digit": "18",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-02-01",
+    "first_prize": "986924",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "683",
+      "936",
+      "944",
+      "952"
+    ],
+    "two_digit": "63",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-02-16",
+    "first_prize": "868701",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "349",
+      "599",
+      "641",
+      "849"
+    ],
+    "two_digit": "94",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-03-01",
+    "first_prize": "291524",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "024",
+      "231",
+      "870",
+      "902"
+    ],
+    "two_digit": "60",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-03-16",
+    "first_prize": "218353",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "004",
+      "543",
+      "578",
+      "737"
+    ],
+    "two_digit": "48",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-04-01",
+    "first_prize": "244704",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "013",
+      "242",
+      "624",
+      "863"
+    ],
+    "two_digit": "03",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-04-16",
+    "first_prize": "699374",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "139",
+      "325",
+      "662",
+      "836"
+    ],
+    "two_digit": "10",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-05-16",
+    "first_prize": "827496",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "246",
+      "333",
+      "738",
+      "890"
+    ],
+    "two_digit": "59",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-06-01",
+    "first_prize": "184191",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "169",
+      "245",
+      "351",
+      "729"
+    ],
+    "two_digit": "29",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-06-16",
+    "first_prize": "569432",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "221",
+      "392",
+      "880",
+      "914"
+    ],
+    "two_digit": "92",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-07-01",
+    "first_prize": "119968",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "561",
+      "702",
+      "813",
+      "999"
+    ],
+    "two_digit": "56",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-07-16",
+    "first_prize": "954430",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "324",
+      "339",
+      "492",
+      "756"
+    ],
+    "two_digit": "87",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-08-01",
+    "first_prize": "697778",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "575",
+      "593",
+      "712",
+      "935"
+    ],
+    "two_digit": "86",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-08-16",
+    "first_prize": "234607",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "151",
+      "251",
+      "422",
+      "978"
+    ],
+    "two_digit": "91",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-09-01",
+    "first_prize": "446615",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "056",
+      "060",
+      "125",
+      "307"
+    ],
+    "two_digit": "68",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-09-16",
+    "first_prize": "874108",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "030",
+      "127",
+      "221",
+      "623"
+    ],
+    "two_digit": "88",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-10-01",
+    "first_prize": "379578",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "300",
+      "654",
+      "752",
+      "765"
+    ],
+    "two_digit": "71",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-10-16",
+    "first_prize": "576993",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "037",
+      "312",
+      "412",
+      "964"
+    ],
+    "two_digit": "79",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-11-01",
+    "first_prize": "267821",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "046",
+      "263",
+      "789",
+      "879"
+    ],
+    "two_digit": "35",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-11-16",
+    "first_prize": "685682",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "049",
+      "223",
+      "295",
+      "632"
+    ],
+    "two_digit": "45",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-12-01",
+    "first_prize": "120927",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "019",
+      "063",
+      "153",
+      "406"
+    ],
+    "two_digit": "65",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1992-12-16",
+    "first_prize": "826531",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "383",
+      "601",
+      "851",
+      "945"
+    ],
+    "two_digit": "92",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-01-16",
+    "first_prize": "423816",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "335",
+      "419",
+      "620",
+      "947"
+    ],
+    "two_digit": "25",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-02-01",
+    "first_prize": "459337",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "171",
+      "507",
+      "767",
+      "986"
+    ],
+    "two_digit": "21",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-02-16",
+    "first_prize": "549455",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "031",
+      "034",
+      "165",
+      "850"
+    ],
+    "two_digit": "41",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-03-01",
+    "first_prize": "006281",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "065",
+      "449",
+      "492",
+      "968"
+    ],
+    "two_digit": "19",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-03-16",
+    "first_prize": "680699",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "509",
+      "547",
+      "554",
+      "731"
+    ],
+    "two_digit": "98",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-04-01",
+    "first_prize": "825558",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "060",
+      "217",
+      "255",
+      "859"
+    ],
+    "two_digit": "89",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-04-16",
+    "first_prize": "632018",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "200",
+      "265",
+      "970",
+      "995"
+    ],
+    "two_digit": "09",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-05-16",
+    "first_prize": "633983",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "109",
+      "606",
+      "740",
+      "812"
+    ],
+    "two_digit": "53",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-06-01",
+    "first_prize": "488477",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "011",
+      "645",
+      "813",
+      "815"
+    ],
+    "two_digit": "61",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-06-16",
+    "first_prize": "119871",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "146",
+      "223",
+      "955",
+      "961"
+    ],
+    "two_digit": "39",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-07-01",
+    "first_prize": "820203",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "189",
+      "206",
+      "213",
+      "729"
+    ],
+    "two_digit": "29",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-07-16",
+    "first_prize": "686061",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "702",
+      "818",
+      "865",
+      "873"
+    ],
+    "two_digit": "21",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-08-01",
+    "first_prize": "137744",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "273",
+      "446",
+      "778",
+      "905"
+    ],
+    "two_digit": "06",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-08-16",
+    "first_prize": "088644",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "030",
+      "033",
+      "200",
+      "260"
+    ],
+    "two_digit": "86",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-09-01",
+    "first_prize": "812096",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "181",
+      "218",
+      "227",
+      "738"
+    ],
+    "two_digit": "00",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-09-16",
+    "first_prize": "286755",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "296",
+      "504",
+      "890",
+      "963"
+    ],
+    "two_digit": "11",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-10-01",
+    "first_prize": "415973",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "401",
+      "489",
+      "682",
+      "928"
+    ],
+    "two_digit": "26",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-10-16",
+    "first_prize": "611764",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "216",
+      "254",
+      "566",
+      "684"
+    ],
+    "two_digit": "58",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-11-01",
+    "first_prize": "908940",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "103",
+      "626",
+      "701",
+      "895"
+    ],
+    "two_digit": "94",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-11-16",
+    "first_prize": "515123",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "112",
+      "184",
+      "410",
+      "507"
+    ],
+    "two_digit": "82",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-12-01",
+    "first_prize": "670638",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "139",
+      "294",
+      "608",
+      "959"
+    ],
+    "two_digit": "98",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1993-12-16",
+    "first_prize": "043500",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "156",
+      "253",
+      "478",
+      "646"
+    ],
+    "two_digit": "69",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-01-16",
+    "first_prize": "791270",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "237",
+      "708",
+      "845",
+      "873"
+    ],
+    "two_digit": "23",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-02-01",
+    "first_prize": "984685",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "173",
+      "268",
+      "396",
+      "746"
+    ],
+    "two_digit": "05",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-02-16",
+    "first_prize": "679044",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "486",
+      "520",
+      "753",
+      "943"
+    ],
+    "two_digit": "76",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-03-01",
+    "first_prize": "373731",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "008",
+      "082",
+      "631",
+      "820"
+    ],
+    "two_digit": "41",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-03-16",
+    "first_prize": "723336",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "166",
+      "185",
+      "382",
+      "515"
+    ],
+    "two_digit": "19",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-04-01",
+    "first_prize": "269815",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "035",
+      "675",
+      "704",
+      "868"
+    ],
+    "two_digit": "29",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-04-16",
+    "first_prize": "893913",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "151",
+      "594",
+      "785",
+      "982"
+    ],
+    "two_digit": "21",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-05-16",
+    "first_prize": "071764",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "093",
+      "535",
+      "544",
+      "746"
+    ],
+    "two_digit": "29",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-06-01",
+    "first_prize": "560804",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "164",
+      "474",
+      "564",
+      "989"
+    ],
+    "two_digit": "17",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-06-16",
+    "first_prize": "947355",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "302",
+      "524",
+      "583",
+      "669"
+    ],
+    "two_digit": "53",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-07-01",
+    "first_prize": "568267",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "372",
+      "445",
+      "868",
+      "902"
+    ],
+    "two_digit": "39",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-07-16",
+    "first_prize": "962891",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "424",
+      "622",
+      "628",
+      "686"
+    ],
+    "two_digit": "74",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-08-01",
+    "first_prize": "114057",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "026",
+      "149",
+      "396",
+      "758"
+    ],
+    "two_digit": "85",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-08-16",
+    "first_prize": "504760",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "303",
+      "677",
+      "724",
+      "897"
+    ],
+    "two_digit": "28",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-09-01",
+    "first_prize": "220893",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "701",
+      "718",
+      "891",
+      "949"
+    ],
+    "two_digit": "67",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-09-16",
+    "first_prize": "781931",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "046",
+      "164",
+      "255",
+      "886"
+    ],
+    "two_digit": "88",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-10-01",
+    "first_prize": "128442",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "229",
+      "243",
+      "251",
+      "623"
+    ],
+    "two_digit": "23",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-10-16",
+    "first_prize": "583048",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "024",
+      "165",
+      "294",
+      "428"
+    ],
+    "two_digit": "79",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-11-01",
+    "first_prize": "676779",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "096",
+      "110",
+      "365",
+      "840"
+    ],
+    "two_digit": "76",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-11-16",
+    "first_prize": "095849",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "225",
+      "504",
+      "816",
+      "902"
+    ],
+    "two_digit": "82",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-12-01",
+    "first_prize": "832681",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "043",
+      "342",
+      "448",
+      "923"
+    ],
+    "two_digit": "02",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
+    "draw_date": "1994-12-16",
+    "first_prize": "100040",
+    "three_digit_first": [],
+    "three_digit_last": [
+      "129",
+      "544",
+      "654",
+      "766"
+    ],
+    "two_digit": "50",
+    "nearby_1st": [],
+    "second_prize": [],
+    "third_prize": [],
+    "prize_4": [],
+    "prize_5": []
+  },
+  {
     "draw_date": "1995-01-16",
     "first_prize": "922388",
     "two_digit": "40",
@@ -2876,8 +4746,15 @@
       "739"
     ],
     "three_digit_first": [],
-    "nearby_1st": [],
-    "second_prize": [],
+    "nearby_1st": [
+      "119451",
+      "969676"
+    ],
+    "second_prize": [
+      "887956",
+      "565311",
+      "093182"
+    ],
     "third_prize": [],
     "prize_4": [],
     "prize_5": []
@@ -36138,7 +38015,12 @@
       "366563",
       "607759",
       "763773",
-      "998537"
+      "998537",
+      "218596",
+      "074114",
+      "205434",
+      "002612",
+      "272028"
     ]
   },
   {
@@ -36317,7 +38199,12 @@
       "448702",
       "615533",
       "787398",
-      "967807"
+      "967807",
+      "218596",
+      "074114",
+      "205434",
+      "002612",
+      "272028"
     ]
   },
   {
@@ -37155,7 +39042,12 @@
       "450193",
       "508152",
       "699751",
-      "928221"
+      "928221",
+      "001621",
+      "131466",
+      "340771",
+      "601864",
+      "799249"
     ],
     "prize_5": [
       "001621",
@@ -37343,7 +39235,8 @@
       "180381",
       "470063",
       "659085",
-      "768586"
+      "768586",
+      "010252"
     ],
     "prize_5": [
       "010252",

@@ -1,0 +1,278 @@
+{
+  "freq_v1": {
+    "name": "Frequency v1 (w=20)",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "window": 20,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "gap_weight": 0.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "freq_v2": {
+    "name": "Frequency v2 (w=40)",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "window": 40,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "gap_weight": 0.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "freq_v3": {
+    "name": "Frequency v3 (w=60)",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "window": 60,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "gap_weight": 0.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "due_v1": {
+    "name": "Due Number v1",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "top_n": 5,
+      "min_gap": 5,
+      "freq_weight": 0.0,
+      "gap_weight": 1.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "due_v2": {
+    "name": "Due Number v2",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "top_n": 10,
+      "min_gap": 10,
+      "freq_weight": 0.0,
+      "gap_weight": 1.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "bayesian_v1": {
+    "name": "Bayesian v1",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "prior_strength": 1,
+      "window": 100,
+      "freq_weight": 1.0,
+      "gap_weight": 0.5,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "markov_v1": {
+    "name": "Markov v1 (order=1)",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "order": 1,
+      "states": 100,
+      "freq_weight": 0.5,
+      "gap_weight": 0.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "markov_v2": {
+    "name": "Markov v2 (order=2)",
+    "phase": 1,
+    "type": "statistical",
+    "params": {
+      "order": 2,
+      "states": 100,
+      "freq_weight": 0.5,
+      "gap_weight": 0.0,
+      "pos_weight": 0.0
+    },
+    "created": "2026-06-24",
+    "generation": 0,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17527_4993": {
+    "name": "Gen(freq_vxmarkov)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v3",
+        "markov_v2"
+      ],
+      "window": 60,
+      "states": 100,
+      "top_n": 38,
+      "freq_weight": 1.0,
+      "pos_weight": 0.0,
+      "order": 2,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T12:01:50.319886",
+    "generation": 17527,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17818_3937": {
+    "name": "Gen(gen_g1xgen_g1)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v1"
+      ],
+      "window": 20,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "pos_weight": 0.0,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T12:46:18.056064",
+    "generation": 17818,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17924_8634": {
+    "name": "Gen(gen_g1xmarkov)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v1"
+      ],
+      "window": 20,
+      "states": 100,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "pos_weight": 0.0,
+      "order": 2,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T13:02:42.834640",
+    "generation": 17924,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17942_8891": {
+    "name": "Gen(freq_vxfreq_v)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v2"
+      ],
+      "window": 40,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "pos_weight": 0.0,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T13:05:31.581869",
+    "generation": 17942,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17943_6155": {
+    "name": "Gen(markovxgen_g1)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v2"
+      ],
+      "window": 40,
+      "states": 100,
+      "top_n": 10,
+      "freq_weight": 1.0,
+      "pos_weight": 0.0,
+      "order": 2,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T13:05:41.152011",
+    "generation": 17943,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17943_8689": {
+    "name": "Gen(markovxgen_g1)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v2"
+      ],
+      "window": 40,
+      "states": 100,
+      "top_n": 10,
+      "freq_weight": 0.5,
+      "pos_weight": 0.0,
+      "order": 2,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T13:05:41.152011",
+    "generation": 17943,
+    "avg_score": 0,
+    "total_rounds": 0
+  },
+  "gen_g17943_6668": {
+    "name": "Gen(gen_g1xgen_g1)",
+    "phase": 4,
+    "type": "genetic",
+    "params": {
+      "parents": [
+        "freq_v1",
+        "freq_v2"
+      ],
+      "window": 40,
+      "top_n": 31,
+      "freq_weight": 1.0,
+      "pos_weight": 0.8191096170250717,
+      "gap_weight": 0.0
+    },
+    "created": "2026-06-14T13:05:41.152011",
+    "generation": 17943,
+    "avg_score": 0,
+    "total_rounds": 0
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "test_date": "2026-06-11T23:39:23.892792",
+  "total_rounds": 676,
+  "formulas_tested": 30,
+  "best_formula": "2. Due Number (Gap)",
+  "recommended_numbers": [
+    "940632",
+    "436092",
+    "392460",
+    "349062",
+    "964320",
+    "439260",
+    "340962",
+    "029364",
+    "602349",
+    "609324"
+  ],
+  "results": {
+    "1. Frequency Analysis": {
+      "total_score": 1165,
+      "avg_sets_won": 0.1257396449704142,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 60,
+        "เลขท้าย 3": 23,
+        "รางวัลที่ 4": 1,
+        "เลขหน้า 3": 1
+      }
+    },
+    "2. Due Number (Gap)": {
+      "total_score": 1520,
+      "avg_sets_won": 0.16272189349112426,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 28,
+        "เลขท้าย 2": 70,
+        "รางวัลที่ 4": 1,
+        "เลขหน้า 3": 11
+      }
+    },
+    "3. Recency Weighted": {
+      "total_score": 1250,
+      "avg_sets_won": 0.1346153846153846,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 65,
+        "เลขท้าย 3": 21,
+        "รางวัลที่ 5": 1,
+        "รางวัลที่ 4": 1,
+        "เลขหน้า 3": 3
+      }
+    },
+    "4. Digit Position": {
+      "total_score": 1219,
+      "avg_sets_won": 0.13165680473372782,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 24,
+        "เลขท้าย 2": 63,
+        "เลขหน้า 3": 1,
+        "รางวัลที่ 4": 1
+      }
+    },
+    "5. Monte Carlo": {
+      "total_score": 1444,
+      "avg_sets_won": 0.15680473372781065,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 28,
+        "เลขท้าย 2": 73,
+        "เลขหน้า 3": 5
+      }
+    },
+    "6. Markov Chain": {
+      "total_score": 1396,
+      "avg_sets_won": 0.15088757396449703,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 28,
+        "เลขท้าย 2": 67,
+        "เลขหน้า 3": 7
+      }
+    },
+    "7. Bayesian Inference": {
+      "total_score": 1098,
+      "avg_sets_won": 0.11982248520710059,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 61,
+        "เลขท้าย 3": 17,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 2
+      }
+    },
+    "8. Hot/Cold Analysis": {
+      "total_score": 1348,
+      "avg_sets_won": 0.14497041420118342,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 66,
+        "เลขท้าย 3": 28,
+        "เลขหน้า 3": 2,
+        "รางวัลที่ 5": 2
+      }
+    },
+    "9. Sum Analysis": {
+      "total_score": 1373,
+      "avg_sets_won": 0.14792899408284024,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 66,
+        "เลขท้าย 3": 30,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 3
+      }
+    },
+    "10. Pair Analysis": {
+      "total_score": 1381,
+      "avg_sets_won": 0.14940828402366865,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 30,
+        "เลขท้าย 2": 67,
+        "เลขหน้า 3": 4
+      }
+    },
+    "11. Benford's Law": {
+      "total_score": 1454,
+      "avg_sets_won": 0.15680473372781065,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 73,
+        "เลขท้าย 3": 24,
+        "เลขหน้า 3": 8,
+        "รางวัลที่ 4": 1
+      }
+    },
+    "12. Day of Week": {
+      "total_score": 1271,
+      "avg_sets_won": 0.13757396449704143,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 62,
+        "เลขท้าย 3": 29,
+        "เลขหน้า 3": 2
+      }
+    },
+    "13. Month Analysis": {
+      "total_score": 1257,
+      "avg_sets_won": 0.13757396449704143,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 69,
+        "เลขท้าย 3": 20,
+        "เลขหน้า 3": 4
+      }
+    },
+    "14. Pattern Recognition": {
+      "total_score": 1407,
+      "avg_sets_won": 0.15384615384615385,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 79,
+        "เลขท้าย 3": 19,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 5
+      }
+    },
+    "15. Regression to Mean": {
+      "total_score": 1344,
+      "avg_sets_won": 0.14644970414201183,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 73,
+        "เลขท้าย 3": 24,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 1
+      }
+    },
+    "16. Modular Arithmetic": {
+      "total_score": 1462,
+      "avg_sets_won": 0.15680473372781065,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 69,
+        "เลขท้าย 3": 31,
+        "รางวัลที่ 5": 2,
+        "เลขหน้า 3": 4
+      }
+    },
+    "17. Fibonacci/Prime": {
+      "total_score": 1252,
+      "avg_sets_won": 0.1346153846153846,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 59,
+        "เลขท้าย 3": 21,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 10
+      }
+    },
+    "18. Entropy Analysis": {
+      "total_score": 1345,
+      "avg_sets_won": 0.14940828402366865,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 85,
+        "เลขท้าย 3": 11,
+        "เลขหน้า 3": 5
+      }
+    },
+    "19. Cascading Filter": {
+      "total_score": 1371,
+      "avg_sets_won": 0.14940828402366865,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 24,
+        "เลขท้าย 2": 72,
+        "เลขหน้า 3": 5
+      }
+    },
+    "20. Adaptive Ensemble": {
+      "total_score": 1190,
+      "avg_sets_won": 0.128698224852071,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 65,
+        "เลขท้าย 3": 16,
+        "รางวัลที่ 5": 1,
+        "รางวัลที่ 4": 1,
+        "เลขหน้า 3": 4
+      }
+    },
+    "21. Odd/Even Ratio": {
+      "total_score": 1220,
+      "avg_sets_won": 0.13313609467455623,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 21,
+        "เลขท้าย 2": 65,
+        "เลขหน้า 3": 4
+      }
+    },
+    "22. High/Low Analysis": {
+      "total_score": 1199,
+      "avg_sets_won": 0.1301775147928994,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 63,
+        "เลขท้าย 3": 20,
+        "เลขหน้า 3": 4,
+        "รางวัลที่ 5": 1
+      }
+    },
+    "23. Consecutive": {
+      "total_score": 1217,
+      "avg_sets_won": 0.13165680473372782,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 64,
+        "เลขท้าย 3": 18,
+        "เลขหน้า 3": 5,
+        "รางวัลที่ 5": 2
+      }
+    },
+    "24. Mirror Number": {
+      "total_score": 1222,
+      "avg_sets_won": 0.13165680473372782,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 59,
+        "เลขท้าย 3": 19,
+        "เลขหน้า 3": 10,
+        "รางวัลที่ 5": 1
+      }
+    },
+    "25. Last Digit Sum": {
+      "total_score": 1263,
+      "avg_sets_won": 0.13757396449704143,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 66,
+        "เลขท้าย 3": 22,
+        "เลขหน้า 3": 5
+      }
+    },
+    "26. Digit Gap": {
+      "total_score": 1315,
+      "avg_sets_won": 0.1390532544378698,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 65,
+        "เลขท้าย 3": 23,
+        "รางวัลที่ 2": 1,
+        "รางวัลที่ 5": 2,
+        "เลขหน้า 3": 3
+      }
+    },
+    "27. Prime Position": {
+      "total_score": 1511,
+      "avg_sets_won": 0.16272189349112426,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 29,
+        "เลขท้าย 2": 77,
+        "รางวัลที่ 5": 1,
+        "เลขหน้า 3": 2,
+        "รางวัลที่ 4": 1
+      }
+    },
+    "28. Alternating": {
+      "total_score": 1346,
+      "avg_sets_won": 0.14349112426035504,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 62,
+        "เลขท้าย 3": 30,
+        "รางวัลที่ 3": 1,
+        "เลขหน้า 3": 4
+      }
+    },
+    "29. Repeated Digits": {
+      "total_score": 1175,
+      "avg_sets_won": 0.128698224852071,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 3": 18,
+        "เลขท้าย 2": 65,
+        "เลขหน้า 3": 4
+      }
+    },
+    "30. Weighted Ensemble": {
+      "total_score": 1324,
+      "avg_sets_won": 0.14201183431952663,
+      "perfect_rounds": 0,
+      "prize_counts": {
+        "เลขท้าย 2": 68,
+        "เลขท้าย 3": 21,
+        "รางวัลที่ 4": 2,
+        "เลขหน้า 3": 5
+      }
+    }
+  }
+}

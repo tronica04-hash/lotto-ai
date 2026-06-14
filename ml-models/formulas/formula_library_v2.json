@@ -1,0 +1,356 @@
+[
+  {
+    "name": "27. Prime Position",
+    "total_score": 6970,
+    "avg_sets_won": 0.11538461538461539,
+    "perfect_rounds": 2,
+    "prize_counts": {
+      "3last": 18,
+      "2digit": 61,
+      "nearby": 1,
+      "2nd": 1
+    }
+  },
+  {
+    "name": "12. Day of Week",
+    "total_score": 1790,
+    "avg_sets_won": 0.13461538461538464,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 78,
+      "3last": 16,
+      "3rd": 1,
+      "5th": 1,
+      "3first": 7
+    }
+  },
+  {
+    "name": "13. Month Analysis",
+    "total_score": 1650,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 74,
+      "3last": 14,
+      "3first": 4,
+      "3rd": 1,
+      "5th": 1
+    }
+  },
+  {
+    "name": "4. Digit Position",
+    "total_score": 1510,
+    "avg_sets_won": 0.14792899408284022,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 19,
+      "2digit": 77,
+      "5th": 2,
+      "3first": 8,
+      "4th": 1
+    }
+  },
+  {
+    "name": "15. Regression to Mean",
+    "total_score": 1480,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 27,
+      "2digit": 54,
+      "3first": 10,
+      "4th": 2
+    }
+  },
+  {
+    "name": "28. Alternating",
+    "total_score": 1480,
+    "avg_sets_won": 0.15236686390532544,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 77,
+      "3last": 29,
+      "3first": 4,
+      "5th": 1
+    }
+  },
+  {
+    "name": "26. Digit Gap",
+    "total_score": 1460,
+    "avg_sets_won": 0.1390532544378698,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 29,
+      "2digit": 68,
+      "3first": 5,
+      "4th": 1
+    }
+  },
+  {
+    "name": "23. Consecutive",
+    "total_score": 1450,
+    "avg_sets_won": 0.13609467455621302,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 23,
+      "2digit": 69,
+      "5th": 2,
+      "3first": 5,
+      "4th": 1
+    }
+  },
+  {
+    "name": "2. Due Number (Gap)",
+    "total_score": 1380,
+    "avg_sets_won": 0.15088757396449703,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 78,
+      "3last": 27,
+      "3first": 3
+    }
+  },
+  {
+    "name": "19. Cascading Filter",
+    "total_score": 1380,
+    "avg_sets_won": 0.1390532544378698,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 73,
+      "3last": 18,
+      "4th": 1,
+      "3first": 7,
+      "5th": 1
+    }
+  },
+  {
+    "name": "17. Fibonacci/Prime",
+    "total_score": 1370,
+    "avg_sets_won": 0.1390532544378698,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 20,
+      "2digit": 71,
+      "4th": 1,
+      "3first": 8
+    }
+  },
+  {
+    "name": "11. Benford's Law",
+    "total_score": 1350,
+    "avg_sets_won": 0.13757396449704143,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 29,
+      "2digit": 64,
+      "3first": 4,
+      "5th": 1
+    }
+  },
+  {
+    "name": "8. Hot/Cold Analysis",
+    "total_score": 1340,
+    "avg_sets_won": 0.1390532544378698,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 21,
+      "2digit": 71,
+      "5th": 3,
+      "3first": 3
+    }
+  },
+  {
+    "name": "10. Pair Analysis",
+    "total_score": 1330,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 59,
+      "3last": 29,
+      "3first": 8
+    }
+  },
+  {
+    "name": "1. Frequency Analysis",
+    "total_score": 1300,
+    "avg_sets_won": 0.12721893491124261,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 27,
+      "2digit": 54,
+      "3first": 6,
+      "4th": 1
+    }
+  },
+  {
+    "name": "7. Bayesian Inference",
+    "total_score": 1300,
+    "avg_sets_won": 0.12721893491124261,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 61,
+      "3last": 28,
+      "5th": 1,
+      "3first": 4
+    }
+  },
+  {
+    "name": "5. Monte Carlo",
+    "total_score": 1290,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 26,
+      "2digit": 62,
+      "3first": 5,
+      "5th": 1
+    }
+  },
+  {
+    "name": "24. Mirror Number",
+    "total_score": 1290,
+    "avg_sets_won": 0.13461538461538464,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 78,
+      "3last": 20,
+      "5th": 1,
+      "3first": 3
+    }
+  },
+  {
+    "name": "6. Markov Chain",
+    "total_score": 1270,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 56,
+      "3last": 26,
+      "5th": 1,
+      "3first": 7
+    }
+  },
+  {
+    "name": "21. Odd/Even Ratio",
+    "total_score": 1200,
+    "avg_sets_won": 0.13313609467455623,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 22,
+      "2digit": 65,
+      "5th": 1,
+      "3first": 3
+    }
+  },
+  {
+    "name": "29. Repeated Digits",
+    "total_score": 1170,
+    "avg_sets_won": 0.12869822485207102,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 21,
+      "2digit": 67,
+      "3first": 4
+    }
+  },
+  {
+    "name": "9. Sum Analysis",
+    "total_score": 1140,
+    "avg_sets_won": 0.13165680473372782,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 15,
+      "2digit": 72,
+      "3first": 6
+    }
+  },
+  {
+    "name": "30. Weighted Ensemble",
+    "total_score": 1090,
+    "avg_sets_won": 0.09023668639053255,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 23,
+      "2digit": 51,
+      "3first": 6
+    }
+  },
+  {
+    "name": "22. High/Low Analysis",
+    "total_score": 1080,
+    "avg_sets_won": 0.12278106508875739,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 21,
+      "2digit": 62,
+      "3first": 2
+    }
+  },
+  {
+    "name": "18. Entropy Analysis",
+    "total_score": 1070,
+    "avg_sets_won": 0.11538461538461539,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 58,
+      "3last": 18,
+      "5th": 1,
+      "3first": 4
+    }
+  },
+  {
+    "name": "16. Modular Arithmetic",
+    "total_score": 990,
+    "avg_sets_won": 0.10502958579881656,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 18,
+      "2digit": 57,
+      "3first": 3
+    }
+  },
+  {
+    "name": "3. Recency Weighted",
+    "total_score": 970,
+    "avg_sets_won": 0.11390532544378698,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 61,
+      "3last": 15,
+      "3first": 3
+    }
+  },
+  {
+    "name": "25. Last Digit Sum",
+    "total_score": 970,
+    "avg_sets_won": 0.09023668639053255,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 55,
+      "3last": 18,
+      "3first": 3
+    }
+  },
+  {
+    "name": "14. Pattern Recognition",
+    "total_score": 950,
+    "avg_sets_won": 0.10798816568047337,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "3last": 15,
+      "2digit": 57,
+      "3first": 4
+    }
+  },
+  {
+    "name": "20. Adaptive Ensemble",
+    "total_score": 850,
+    "avg_sets_won": 0.10059171597633136,
+    "perfect_rounds": 0,
+    "prize_counts": {
+      "2digit": 53,
+      "3last": 13,
+      "3first": 3
+    }
+  }
+]
